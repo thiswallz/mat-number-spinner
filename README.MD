@@ -51,11 +51,11 @@ Put `<uix-mat-number-spinner></uix-mat-number-spinner>` somewhere.
 #### Example
 
 ##### Using standar input from angular material
-![Alt text](https://github.com/thiswallz/mat-number-spinner/master/demo.gif?raw=true 'Example 1')
+![Alt text](https://raw.githubusercontent.com/thiswallz/mat-number-spinner/master/demo.gif?raw=true 'Example 1')
 
 ##### Using outline input from angular material
 
-![Alt text](https://github.com/thiswallz/mat-number-spinner/master/demo2.gif?raw=true 'Example 2')
+![Alt text](https://raw.githubusercontent.com/thiswallz/mat-number-spinner/master/demo2.gif?raw=true 'Example 2')
 
 
 ## Authors

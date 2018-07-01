@@ -1,6 +1,6 @@
 {
   "name": "uix-mat-number-spinner",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A better way to manage spinners extending angular material for angular 6.",
   "keywords": [
     "angular 6",
