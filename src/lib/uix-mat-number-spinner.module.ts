@@ -7,4 +7,4 @@ import { BrowserModule } from "@angular/platform-browser";
   declarations: [MatNumberSpinnerComponent],
   exports: [MatNumberSpinnerComponent]
 })
-export class MatNumberSpinnerModule {}
+export class UixMatNumberSpinnerModule {}
