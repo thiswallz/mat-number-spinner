@@ -28,7 +28,7 @@ import { UixMatNumberSpinnerModule } from "uix-mat-number-spinner";
 export class AppModule {}
 ```
 
-### Place the `UixLightNotifierComponent` in your app component
+### Place the `UixMatNumberSpinnerComponent` in your app component
 
 Put `<uix-mat-number-spinner></uix-mat-number-spinner>` somewhere.
 
