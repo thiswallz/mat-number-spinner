@@ -1,14 +1,14 @@
 {
   "name": "uix-mat-number-spinner",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A better way to manage spinners extending angular material for angular 6.",
   "keywords": [
     "angular 6",
     "notification",
-    "notifier",
-    "message",
-    "snack bar",
-    "simple notification"
+    "spinners",
+    "number",
+    "input number",
+    "angular material"
   ],
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
